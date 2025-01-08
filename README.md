@@ -23,23 +23,23 @@ The primary objectives of this analysis are to:
 
 2) Calculate the total revenue generated from pizza sales.
 
-3)Identify the highest-priced pizza.
+3) Identify the highest-priced pizza.
 
-4)Identify the most common pizza size ordered.
+4) Identify the most common pizza size ordered.
 
-5)List the top 5 most ordered pizza types along with their quantities.
+5) List the top 5 most ordered pizza types along with their quantities.
 
-6)find the total quantity of each pizza category ordered.
+6) find the total quantity of each pizza category ordered.
 
-7)Determine the distribution of orders by hour of the day.
+7) Determine the distribution of orders by hour of the day.
 
-8)find the category-wise distribution of pizzas.
+8) find the category-wise distribution of pizzas.
 
-9)calculate the average number of pizzas ordered per day.
+9) calculate the average number of pizzas ordered per day.
 
-10)Determine the top 3 most ordered pizza types based on revenue.
+10) Determine the top 3 most ordered pizza types based on revenue.
 
-11)Calculate the percentage contribution of each pizza type to total revenue.
+11) Calculate the percentage contribution of each pizza type to total revenue.
 
-12)Analyze the cumulative revenue generated over time.
+12) Analyze the cumulative revenue generated over time.
 
