@@ -8,8 +8,11 @@ Dataset
 The analysis utilizes a dataset comprising the following tables:
 
 Orders: Contains details about each order, including order ID, date, and time.
+
 Order Details: Includes information on the pizzas ordered, order id and quantities.
+
 Pizzas: Provides details about each pizza, such as size, pizza type and price.
+
 Pizza Types: Describes the ingredients and other characteristics such as name and category of each pizza type.
 
 Objectives
