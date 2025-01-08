@@ -7,21 +7,21 @@ Dataset
 
 The analysis utilizes a dataset comprising the following tables:
 
-1)Orders: Contains details about each order, including order ID, date, and time.
+1) Orders: Contains details about each order, including order ID, date, and time.
 
-2)Order Details: Includes information on the pizzas ordered, order id and quantities.
+2) Order Details: Includes information on the pizzas ordered, order id and quantities.
 
-3)Pizzas: Provides details about each pizza, such as size, pizza type and price.
+3) Pizzas: Provides details about each pizza, such as size, pizza type and price.
 
-4)Pizza Types: Describes the ingredients and other characteristics such as name and category of each pizza type.
+4) Pizza Types: Describes the ingredients and other characteristics such as name and category of each pizza type.
 
 Objectives
 
 The primary objectives of this analysis are to:
 
-1)Retrieve the total number of orders placed.
+1) Retrieve the total number of orders placed.
 
-2)Calculate the total revenue generated from pizza sales.
+2) Calculate the total revenue generated from pizza sales.
 
 3)Identify the highest-priced pizza.
 
