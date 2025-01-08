@@ -8,24 +8,38 @@ Dataset
 The analysis utilizes a dataset comprising the following tables:
 
 1)Orders: Contains details about each order, including order ID, date, and time.
+
 2)Order Details: Includes information on the pizzas ordered, order id and quantities.
+
 3)Pizzas: Provides details about each pizza, such as size, pizza type and price.
+
 4)Pizza Types: Describes the ingredients and other characteristics such as name and category of each pizza type.
 
 Objectives
 
 The primary objectives of this analysis are to:
 
-Retrieve the total number of orders placed.
-Calculate the total revenue generated from pizza sales.
-Identify the highest-priced pizza.
-Identify the most common pizza size ordered.
-List the top 5 most ordered pizza types along with their quantities.
-Join the necessary tables to find the total quantity of each pizza category ordered.
-Determine the distribution of orders by hour of the day.
-Join relevant tables to find the category-wise distribution of pizzas.
-Group the orders by date and calculate the average number of pizzas ordered per day.
-Determine the top 3 most ordered pizza types based on revenue.
-Calculate the percentage contribution of each pizza type to total revenue.
-Analyze the cumulative revenue generated over time.
-Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+1)Retrieve the total number of orders placed.
+
+2)Calculate the total revenue generated from pizza sales.
+
+3)Identify the highest-priced pizza.
+
+4)Identify the most common pizza size ordered.
+
+5)List the top 5 most ordered pizza types along with their quantities.
+
+6)find the total quantity of each pizza category ordered.
+
+7)Determine the distribution of orders by hour of the day.
+
+8)find the category-wise distribution of pizzas.
+
+9)calculate the average number of pizzas ordered per day.
+
+10)Determine the top 3 most ordered pizza types based on revenue.
+
+11)Calculate the percentage contribution of each pizza type to total revenue.
+
+12)Analyze the cumulative revenue generated over time.
+
